@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("i am a project");
 
+        System.out.println(123);
+
     }
 }
